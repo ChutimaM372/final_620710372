@@ -1,0 +1,17 @@
+{
+  "city": "Bangkok",
+  "country": "Thailand",
+  "lastUpdated": "2023-10-25 19:45",
+  "tempC": 30,
+  "tempF": 86,
+  "feelsLikeC": 38.1,
+  "feelsLikeF": 100.5,
+  "windKph": 6.8,
+  "windMph": 4.3,
+  "humidity": 70,
+  "uv": 1,
+  "condition": {
+    "text": "Sun",
+    "icon":  "assets/images/sun.png"
+  }
+}
